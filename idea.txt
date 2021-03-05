@@ -1,0 +1,1 @@
+İdea: simple package manager for multiplatform.
